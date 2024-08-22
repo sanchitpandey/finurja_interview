@@ -1,0 +1,14 @@
+[
+  {
+    "id": "account_1",
+    "name": "State Bank of India",
+    "accountNumber": "1234567890",
+    "bankIcon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SBI-logo.svg/2048px-SBI-logo.svg.png"
+  },
+  {
+    "id": "account_2",
+    "name": "HDFC Bank",
+    "accountNumber": "0987654321",
+    "bankIcon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNoQMLUXxpQbDeMQ_RUh-jjYxMqRR0xqfC-g&s"
+  }
+]
